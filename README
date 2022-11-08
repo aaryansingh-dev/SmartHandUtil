@@ -1,6 +1,6 @@
-## Project Name: SmartHandUtil
-## Event Name: HackED Beta 2022
-## Team Name: Dynamic-Dev
+Project Name: SmartHandUtil
+Event Name: HackED Beta 2022
+Team Name: Dynamic-Dev
 
 This project aims to address a major problem faced by many users with severe or permanent disability in their arms / hands which hinders their ability to operate a computer using a keyboard & mouse. It'll help them to type their thoughts on the screen without using a keyboard & perform some basic functions like opening of files etc., with minimal touch of mouse and some additional features.
 
@@ -8,7 +8,7 @@ This project is in its early stages, and we wanted to see how well our concept c
 
 More changes and updates are on the way, which will be integrated with this project to assist in addressing computer operating issues for disabled people. 
 
-##Modules/API/Library used:
+Modules/API/Library used:
  * Google
  * BeautifulSoup
  * TensorFlow
@@ -21,13 +21,13 @@ More changes and updates are on the way, which will be integrated with this proj
  * opencv-contrib-python
  * opencv-handtracking
 
-## Acknowledgments:
+Acknowledgments:
  * https://google.github.io/mediapipe/
  * https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
  * https://youtu.be/6QMiuzwWiKc
 
-## GitHub Profile:
+GitHub Profile:
 https://github.com/kunaal-gupta (Git Repo is kept private, reach out to us for more info)
 
-##Feedback:
+Feedback:
 If you have any feedback or issue(s), please reach out to us at kunaal@ualberta.ca or ajsingh@ualberta.ca
