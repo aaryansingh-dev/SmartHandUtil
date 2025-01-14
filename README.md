@@ -46,10 +46,10 @@ Acknowledgments:
  * https://youtu.be/6QMiuzwWiKc
 
 Github Profile:
-https://github.com/kunaal-gupta |
+https://github.com/kunaal-gupta | https://github.com/aaryansingh-dev
 
 Feedback:
-If you have any feedback or issue(s), please reach out to me at kunaal@ualberta.ca and __@ualberta.ca
+If you have any feedback or issue(s), please reach out to me at kunaal@ualberta.ca and ajsingh@ualberta.ca
 
 
 
